@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7311D5271CB7A27C0005A750 /* EAPaperInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7311D5261CB7A27C0005A750 /* EAPaperInfoViewController.m */; };
+		7311D52A1CB7A2960005A750 /* EABookmarkQuestionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7311D5291CB7A2960005A750 /* EABookmarkQuestionViewController.m */; };
+		7311D52D1CB7A2A70005A750 /* EAWrongQuestionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7311D52C1CB7A2A70005A750 /* EAWrongQuestionViewController.m */; };
+		7311D5301CB7A2C40005A750 /* EAFlashCardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7311D52F1CB7A2C40005A750 /* EAFlashCardViewController.m */; };
+		7311D5331CB7A2D30005A750 /* EAFeedbackViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7311D5321CB7A2D30005A750 /* EAFeedbackViewController.m */; };
+		7311D5361CB7A2EE0005A750 /* EAAboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7311D5351CB7A2EE0005A750 /* EAAboutViewController.m */; };
+		7311D5391CB7A3010005A750 /* EAShareViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7311D5381CB7A3010005A750 /* EAShareViewController.m */; };
+		7311D53C1CB7A3120005A750 /* EAImportViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7311D53B1CB7A3120005A750 /* EAImportViewController.m */; };
 		73D8BA181CB79C41005C488F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D8BA171CB79C41005C488F /* main.m */; };
 		73D8BA1B1CB79C41005C488F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D8BA1A1CB79C41005C488F /* AppDelegate.m */; };
 		73D8BA1E1CB79C41005C488F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D8BA1D1CB79C41005C488F /* ViewController.m */; };
@@ -35,6 +43,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7311D5251CB7A27C0005A750 /* EAPaperInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAPaperInfoViewController.h; sourceTree = "<group>"; };
+		7311D5261CB7A27C0005A750 /* EAPaperInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAPaperInfoViewController.m; sourceTree = "<group>"; };
+		7311D5281CB7A2960005A750 /* EABookmarkQuestionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EABookmarkQuestionViewController.h; sourceTree = "<group>"; };
+		7311D5291CB7A2960005A750 /* EABookmarkQuestionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EABookmarkQuestionViewController.m; sourceTree = "<group>"; };
+		7311D52B1CB7A2A70005A750 /* EAWrongQuestionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAWrongQuestionViewController.h; sourceTree = "<group>"; };
+		7311D52C1CB7A2A70005A750 /* EAWrongQuestionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAWrongQuestionViewController.m; sourceTree = "<group>"; };
+		7311D52E1CB7A2C40005A750 /* EAFlashCardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAFlashCardViewController.h; sourceTree = "<group>"; };
+		7311D52F1CB7A2C40005A750 /* EAFlashCardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAFlashCardViewController.m; sourceTree = "<group>"; };
+		7311D5311CB7A2D30005A750 /* EAFeedbackViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAFeedbackViewController.h; sourceTree = "<group>"; };
+		7311D5321CB7A2D30005A750 /* EAFeedbackViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAFeedbackViewController.m; sourceTree = "<group>"; };
+		7311D5341CB7A2EE0005A750 /* EAAboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAAboutViewController.h; sourceTree = "<group>"; };
+		7311D5351CB7A2EE0005A750 /* EAAboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAAboutViewController.m; sourceTree = "<group>"; };
+		7311D5371CB7A3010005A750 /* EAShareViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAShareViewController.h; sourceTree = "<group>"; };
+		7311D5381CB7A3010005A750 /* EAShareViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAShareViewController.m; sourceTree = "<group>"; };
+		7311D53A1CB7A3120005A750 /* EAImportViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAImportViewController.h; sourceTree = "<group>"; };
+		7311D53B1CB7A3120005A750 /* EAImportViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAImportViewController.m; sourceTree = "<group>"; };
 		73D8BA131CB79C41005C488F /* LZHExamAnki.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LZHExamAnki.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73D8BA171CB79C41005C488F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		73D8BA191CB79C41005C488F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -78,9 +102,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7311D5241CB7A2330005A750 /* Viewcontrollers */ = {
+			isa = PBXGroup;
+			children = (
+				7311D5251CB7A27C0005A750 /* EAPaperInfoViewController.h */,
+				7311D5261CB7A27C0005A750 /* EAPaperInfoViewController.m */,
+				7311D5281CB7A2960005A750 /* EABookmarkQuestionViewController.h */,
+				7311D5291CB7A2960005A750 /* EABookmarkQuestionViewController.m */,
+				7311D52B1CB7A2A70005A750 /* EAWrongQuestionViewController.h */,
+				7311D52C1CB7A2A70005A750 /* EAWrongQuestionViewController.m */,
+				7311D52E1CB7A2C40005A750 /* EAFlashCardViewController.h */,
+				7311D52F1CB7A2C40005A750 /* EAFlashCardViewController.m */,
+				7311D5311CB7A2D30005A750 /* EAFeedbackViewController.h */,
+				7311D5321CB7A2D30005A750 /* EAFeedbackViewController.m */,
+				7311D5341CB7A2EE0005A750 /* EAAboutViewController.h */,
+				7311D5351CB7A2EE0005A750 /* EAAboutViewController.m */,
+				7311D5371CB7A3010005A750 /* EAShareViewController.h */,
+				7311D5381CB7A3010005A750 /* EAShareViewController.m */,
+				7311D53A1CB7A3120005A750 /* EAImportViewController.h */,
+				7311D53B1CB7A3120005A750 /* EAImportViewController.m */,
+			);
+			name = Viewcontrollers;
+			sourceTree = "<group>";
+		};
 		73D8BA0A1CB79C41005C488F = {
 			isa = PBXGroup;
 			children = (
+				7311D5241CB7A2330005A750 /* Viewcontrollers */,
 				73D8BA151CB79C41005C488F /* LZHExamAnki */,
 				73D8BA2F1CB79C41005C488F /* LZHExamAnkiTests */,
 				73D8BA3A1CB79C41005C488F /* LZHExamAnkiUITests */,
@@ -270,9 +318,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7311D52D1CB7A2A70005A750 /* EAWrongQuestionViewController.m in Sources */,
 				73D8BA1E1CB79C41005C488F /* ViewController.m in Sources */,
+				7311D5361CB7A2EE0005A750 /* EAAboutViewController.m in Sources */,
+				7311D52A1CB7A2960005A750 /* EABookmarkQuestionViewController.m in Sources */,
+				7311D5391CB7A3010005A750 /* EAShareViewController.m in Sources */,
 				73D8BA1B1CB79C41005C488F /* AppDelegate.m in Sources */,
 				73D8BA181CB79C41005C488F /* main.m in Sources */,
+				7311D5301CB7A2C40005A750 /* EAFlashCardViewController.m in Sources */,
+				7311D53C1CB7A3120005A750 /* EAImportViewController.m in Sources */,
+				7311D5271CB7A27C0005A750 /* EAPaperInfoViewController.m in Sources */,
+				7311D5331CB7A2D30005A750 /* EAFeedbackViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +554,7 @@
 				73D8BA421CB79C41005C488F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		73D8BA431CB79C41005C488F /* Build configuration list for PBXNativeTarget "LZHExamAnkiTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +563,7 @@
 				73D8BA451CB79C41005C488F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		73D8BA461CB79C41005C488F /* Build configuration list for PBXNativeTarget "LZHExamAnkiUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +572,7 @@
 				73D8BA481CB79C41005C488F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
